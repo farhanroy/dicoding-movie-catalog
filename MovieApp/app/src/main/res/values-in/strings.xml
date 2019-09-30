@@ -1,0 +1,25 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movie</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv">TV</string>
+    <string name="btn_favorite_delete">Hapus Favorit</string>
+    <string name="btn_favorite">Tambahkan Favorit</string>
+    <string name="poster_photos">Poster</string>
+    <string name="change_language_settings">Ganti Pengaturan Bahasa</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="lang_support">Tidak Mendukung Bahasa Indonesia</string>
+    <string name="show_notif_add">Pergi ke Halaman Favorit untuk menghapus</string>
+    <string name="cari">Search</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="change_setting">Atur Pengulang</string>
+    <string name="setting">Pengaturan</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_today_reminder">Rilis Hari Ini</string>
+    <string name="hint_daily_reminder">Aplikasi akan mengingatkan kamu untuk kembali</string>
+    <string name="hint_release_today_reminder">Kamu akan mendapatkan notifikasi film yang rilis hari ini</string>
+    <string name="release_today_reminder_msg">ada yang rilis hari ini !</string>
+    <string name="empty_text">No Data</string>
+    <string name="appwidget_text">Film Favorite</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="notif_text">Buka aplikasi movie katalog mu</string>
+</resources>

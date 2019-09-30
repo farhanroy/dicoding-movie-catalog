@@ -1,0 +1,30 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movie</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv">TV</string>
+    <string name="poster_photos">Poster</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="btn_favorite">Add Favorite</string>
+    <string name="btn_favorite_delete">Delete Favorite</string>
+    <string name="lang_support">No Support English Language</string>
+    <string name="show_notif_add">Go to Favorite Page to Delete</string>
+    <string name="cari">Search</string>
+    <string name="title_activity_search_tv" translatable="false">SearchTv</string>
+    <string name="retry">Retry</string>
+    <string name="change_setting">Setting Reminder</string>
+    <string name="setting">Setting</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_today_reminder">Release Today Reminder</string>
+    <string name="hint_daily_reminder">App will remind you to come back everyday</string>
+    <string name="hint_release_today_reminder">You will get notification about today\'s released movie(s)</string>
+    <string name="release_today_reminder_msg">has been released today!</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Data</string>
+    <string name="notif_text">Open your movie catalogue app</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
